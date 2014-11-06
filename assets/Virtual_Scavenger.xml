@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="acid" size="247.000000 247.000000" >
+          <VirtualButton name="a" rectangle="-108.68 65 109.50 -65.87" enabled="true" />
+    </ImageTarget>
+    <ImageTarget name="clay" size="247.000000 164.666672" >
+          <VirtualButton name="b" rectangle="-108.68 65 109.50 -65.87" enabled="true" />
+    </ImageTarget>
+    <ImageTarget name="tarmac" size="247.000000 172.899994" >
+          <VirtualButton name="c" rectangle="-108.68 65 109.50 -65.87" enabled="true" />
+    </ImageTarget>
+    <ImageTarget name="stones" size="247.000000 172.899994" >
+          <VirtualButton name="d" rectangle="-108.68 65 109.50 -65.87" enabled="true" />
+    </ImageTarget>
+    <ImageTarget name="chips" size="247.000000 172.899994" >
+          <VirtualButton name="e" rectangle="-108.68 65 109.50 -65.87" enabled="true" />
+    </ImageTarget>
+  </Tracking>
+</QCARConfig>
